@@ -1,13 +1,13 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class ContaBancaria {
+public class ContaBancaria2 {
     private int numeroConta;
     private String titular;
     private double saldo;
     private List<String> historico;
 
-    public ContaBancaria(int numeroConta, String titular) {
+    public ContaBancaria2(int numeroConta, String titular) {
         this.numeroConta = numeroConta;
         this.titular = titular;
         this.saldo = 0.0;
