@@ -1,0 +1,2 @@
+FORNECEDOR;Ney;ney@gmail.com;Internet
+CLIENTE;Ronald;ronald@gmail.com;Google
