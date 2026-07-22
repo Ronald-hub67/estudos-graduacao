@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        ContaBancaria conta = new ContaBancaria(10, "Ronald");
+        ContaBancaria2 conta = new ContaBancaria2(10, "Ronald");
 
         conta.depositar(500.0);
         conta.sacar(200.0);
